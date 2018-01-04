@@ -1,0 +1,46 @@
+ .parallax-container {
+    height: 600px;
+ }
+
+ .header{
+ 	font-family: 'Berkshire Swash', cursive;
+ 	font-size:4em;
+ }
+
+ .text-1{
+ 	font-family: 'Gloria Hallelujah', cursive;
+ 	font-size:1.8em;
+ }
+
+ .text-2{
+ 	font-family: 'Abril Fatface', cursive;
+ 	font-size:1.8em;
+ }
+
+ .text-3{
+ 	font-family: 'Gloria Hallelujah', cursive;
+ 	font-size:1.8em;
+ }
+
+ .text-4{
+ 	font-family: 'Abril Fatface', cursive;
+ 	font-size:1.8em;
+ }
+
+ .text-5{
+ 	font-family: 'Gloria Hallelujah', cursive;
+ 	font-size:1.8em;
+ 	color:white;
+ }
+
+ .first{
+ 	top:-100em;
+ }
+
+ @media screen and (max-width: 1025px) {
+
+ .first{
+ 	top:-75em;
+ }
+
+ }
